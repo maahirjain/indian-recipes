@@ -1,4 +1,4 @@
-# Odin Recipes
+# Indian Recipes
 
 This is the first project I created as part of [The Odin Project's](https://www.theodinproject.com/) full stack curriculum.
 
