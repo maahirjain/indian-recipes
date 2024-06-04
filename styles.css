@@ -1,0 +1,33 @@
+* {
+    font-family: "Verdana", sans-serif;
+}
+
+em {
+    color:#046a38
+}
+
+img {
+    width: 350;
+    height: 450;
+}
+
+.recipe-page {
+    background-color: #865c49;
+    color: white;
+}
+
+.saffron-text {
+    color:#ff671f
+}
+
+.recipe-page h1 {
+    background-color: #d4af37;
+}
+
+.recipe-page h2 {
+    background-color: silver;
+}
+
+.recipe-page a {
+    color: #d4af37;
+}
